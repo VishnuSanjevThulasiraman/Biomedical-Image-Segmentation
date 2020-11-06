@@ -1,3 +1,3 @@
-# Hyper-Parameter-Tuning
+# Biomedical Image Segemntation
 
-Biomedical Image Segmentation using simple UNet Architecture 
+Hyper paramater tuning experiments on loss functions and regularizers of simple UNet Architecture 
